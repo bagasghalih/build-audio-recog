@@ -7,3 +7,4 @@ NOTE:
 3. You may find the problem while installinng the PyAudio libraries, so please pay attention to the installation of this libraries
 
 THANKS YOU! :)
+This is just a copy of my repository
