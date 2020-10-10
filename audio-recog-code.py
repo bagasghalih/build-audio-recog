@@ -16,13 +16,13 @@ PyAudio‑0.2.11‑cp38‑cp38‑win_amd64.whl
 PyAudio‑0.2.11‑cp38‑cp38‑win32.whl
 #so I'll download one of the file above
 
-#5. After that search "Run" in the search bar, then write %appdata%, and you may redirected into "Roaming" Directory File
+#5. After that, search "Run" in the search bar, then write %appdata%, and you may redirected into "Roaming" Directory File
 #6. Then go back from the "Roaming" file, until you can see the the folders that included "Local", "LocalLow", and "Roaming"
 #7. Choose "Local", and Then Click on Programs → Python →Python 38–32 → Scripts →Paste the downloaded file (PyAudio) inside the Scripts folder.
 #8 After that, try to install the PyAudio libraries once again with this query
 C: Users\Bagas> pip install C:\Users\Bagas\AppData\Local\Programs\Python\Python38-32\Scripts\PyAudio-0.2.11-cp38-cp38-win32.whl
 
-#9. DONE! Your PyAudio Libraries may work Now
+#9. DONE! your PyAudio Libraries may work Now
 
 #TIME TO CODE
 #import packages from Libraries
